@@ -26,7 +26,7 @@ GhostHunter uses a serverless architecture to automatically scan for unattached 
 ---
 
 ## Architecture Diagram
-![GhostHunter Architecture]GhostHunter-Architecture.drawio.png
+![GhostHunter Architecture](GhostHunter-Architecture.drawio.png)
 
 ---
 
