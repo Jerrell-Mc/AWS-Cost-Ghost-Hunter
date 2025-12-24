@@ -26,8 +26,8 @@ GhostHunter uses a serverless architecture to automatically scan for unattached 
 ---
 
 ## Architecture Diagram
-![GhostHunter Architecture](diagram/ghosthunter-Architecture.drawio.png)
-https://github.com/Jerrell-Mc/AWS-Cost-Ghost-Hunter/blob/main/GhostHunter-Architecture.drawio.png
+![GhostHunter Architecture](images/architecture.png)
+
 ---
 
 ## AWS Services Used
